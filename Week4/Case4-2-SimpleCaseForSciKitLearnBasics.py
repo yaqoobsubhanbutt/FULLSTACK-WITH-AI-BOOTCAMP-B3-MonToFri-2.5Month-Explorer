@@ -170,7 +170,7 @@ from sklearn.metrics import classification_report
 # and print the results. 
 model_preds = {
     "Logistic Regression": log_reg_preds,
-    "Support Vector Machine": svm_preds,
+   "Support Vector Machine": svm_preds,
     "Decision Tree": tree_preds
 }
 
